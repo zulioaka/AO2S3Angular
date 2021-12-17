@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Sail&display=swap');
+
+.imagem{
+    position: relative;
+    width: 330px;
+    height: auto;
+    top: 20px;
+}
+
+.geek{
+    position: relative;
+    top: -100px;
+    left: 360px;
+    margin-right: 0px;
+    opacity: 80%;
+
+    font-size: 97px;
+    font-family: Orbitron;
+
+    color: honeydew;
+}
+
+.menuu{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    margin: 0px;
+
+    background-color: rgb(200, 208, 221);
+}
+
+.mat-menu-item{
+    position: relative;
+    width: auto;
+    height: 40px;
+    top: 15px;
+    left: 450px;
+    margin-left: 20px;
+    border: none;
+
+    font-size: 30px;
+    font-family: Orbitron;
+}
